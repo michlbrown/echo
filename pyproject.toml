@@ -1,7 +1,7 @@
 [project]
-name = "python-template"
+name = "echo"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple Discord music bot powered by yt-dlp"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []

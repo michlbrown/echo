@@ -1,5 +1,5 @@
 def main():
-    print("Hello from Echo!")
+    print("Hello from Aux!")
 
 
 if __name__ == "__main__":
